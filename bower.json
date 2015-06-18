@@ -1,0 +1,9 @@
+{
+  "name": "polymer-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#1.0.1"
+  },
+  "private": true
+}
