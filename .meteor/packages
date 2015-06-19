@@ -10,3 +10,4 @@ insecure
 mquandalle:bower
 iron:router
 reactive-var
+differential:vulcanize

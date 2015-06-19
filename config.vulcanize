@@ -1,0 +1,13 @@
+{
+  "polyfill": "/components/webcomponentsjs/webcomponents.min.js",
+  "useShadowDom": true,
+  "imports": [
+    "/components/polymer/polymer.html",
+    "/components/iron-icons/iron-icons.html",
+    "/components/paper-drawer-panel/paper-drawer-panel.html",
+    "/components/paper-header-panel/paper-header-panel.html",
+    "/components/paper-toolbar/paper-toolbar.html",
+    "/components/paper-button/paper-button.html",
+    "/components/paper-icon-button/paper-icon-button.html"
+  ]
+}
