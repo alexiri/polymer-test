@@ -1,5 +1,4 @@
 {
-  "polyfill": "/components/webcomponentsjs/webcomponents.min.js",
   "useShadowDom": true,
   "imports": [
     "/components/polymer/polymer.html",
